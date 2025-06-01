@@ -15,7 +15,7 @@
 		"strength": 35,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
-		"uniques": ["[+50]% Strength <when defending>","cannot attack"],
+		"uniques": ["[+50]% Strength <when defending>","cannot attack","[20]% Strength bonus for [Javaliner] units within [1] tiles],
 		"attackSound": "metalhit"
 	}
 ]
