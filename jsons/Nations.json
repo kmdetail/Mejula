@@ -31,10 +31,8 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "The Mejulian Expanse",
 		"uniqueText": "Instead of founding cities you may found war-camps. Unit production within war-camps is greatly increased. Zero border growth in war-camps.",
-		"uniques":
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": ["[1] free [Military] units appear <in [Camp Fortifications] tiles> <every [2] turns> <when at war>",
+		"Cannot build [Settler] units",],
+		"cities": "Mejula"
 	}
 ]
