@@ -31,8 +31,9 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "The Mejulian Expanse",
 		"uniqueText": "Instead of founding cities you may found war-camps. Unit production within war-camps is greatly increased. Zero border growth in war-camps.",
-		"uniques": ["[1] free [Military] units appear <in [Camp Fortifications] tiles> <every [2] turns> <when at war>",
-		"Cannot build [Settler] units"],
+		"uniques": ["[1] free [Javiliner] units appear <in [Camp Fortifications] tiles> <every [2] turns> <when at war>",
+		"Cannot build [Settler] units",
+		"[1] free [Shieldman] units appear <in [Camp Fortifications] tiles> <every [3] turns> <when at war>"],
 		"cities": ["Mejula"],
 	}
 ]
