@@ -8,7 +8,8 @@
 		"hurryCostModifier": 20
 	}
 	{
-	         "name": "Spearman",
+	         "name": "Shieldman",
+		"uniqueTo": "Mejula",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 35,
