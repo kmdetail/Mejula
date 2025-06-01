@@ -9,6 +9,7 @@
 	}
 	{
 	         "name": "Shieldman",
+		"replaces": "spearman",
 		"uniqueTo": "Mejula",
 		"unitType": "Sword",
 		"movement": 2,
