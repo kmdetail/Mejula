@@ -7,4 +7,14 @@
 		"uniques": ["Can build [Land] improvements on tiles"],
 		"hurryCostModifier": 20
 	}
+	{
+	         "name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 35,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"uniques": ["[+50]% Strength <when defending>","cannot attack"],
+		"attackSound": "metalhit"
+	}
 ]
