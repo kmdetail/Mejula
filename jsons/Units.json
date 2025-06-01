@@ -18,4 +18,17 @@
 		"uniques": ["[+50]% Strength <when defending>","cannot attack","[20]% Strength bonus for [Javaliner] units within [1] tiles],
 		"attackSound": "metalhit"
 	}
+        {
+		"name": "Javaliner",
+		"uniqueTo": "Mejula",
+		"unitType": "Archery",
+                "replaces": "Composite Bowman",
+
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 15,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"attackSound": "arrow"
+	}
 ]
