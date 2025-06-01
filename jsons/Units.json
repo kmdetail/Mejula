@@ -5,7 +5,7 @@
 		"unitType": "Civilian",
 		"movement": 4,
 		"cost": 106,
-		"uniques": ["Founds a new city <by consuming this unit>"],
+		"uniques": [""],
 		"hurryCostModifier": 20
 	}
 ]
