@@ -4,7 +4,7 @@
 	        "replaces": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
 		"turnsToBuild": 6,
-		"techRequired": "Trapping",
+		"techRequired": "Engineering",
 		"uniques": ["Can be built outside your borders","Gain control over [all] tiles in a [1]-tile radius"],
   }
   {
