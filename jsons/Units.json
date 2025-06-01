@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 4,
 		"cost": 106,
-		"uniques": ["Can build [War-camp] improvements on tiles","Can build [Camp Fortifications] improvements on tiles],
+		"uniques": ["Can build [War-camp] improvements on tiles","Can build [Camp Fortifications] improvements on tiles]"],
 		"hurryCostModifier": 20
 	}
 ]
